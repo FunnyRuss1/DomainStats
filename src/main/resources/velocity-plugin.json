@@ -1,0 +1,9 @@
+{
+  "id": "domainstats",
+  "name": "DomainStats",
+  "version": "1.0.0",
+  "description": "Domain login statistics for Velocity",
+  "authors": ["JointWorld"],
+  "main": "ru.jointworld.domainstats.DomainStatsPlugin",
+  "dependencies": [{"id": "luckperms", "optional": true}]
+}
